@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/vegeta897/d-zone",
-  "infoCommand": "!d-zone",
+  "url": "https://cultistmans.herokuapp.com/?s=default",
+  "infoCommand": "!cult-sim",
   "autoPopulate": true,
   "servers": [
   ]
